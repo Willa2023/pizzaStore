@@ -1,3 +1,5 @@
-###Pizza Store
+### Build a Basic API for Pizza Management with C# and .NET
 
-### build a basic api to create, read, update and delete pizza in database by C# and .NET. Use Swagger to display the method.<img width="1496" alt="pizza store (swagger)" src="https://github.com/Willa2023/pizzaStore/assets/142073064/59fe04f3-4ca5-4fef-be1d-73a369a6a68b">
+Create an API to manage pizza records in a database, including operations to create, read, update, and delete pizzas. Use Swagger to display and test the API methods.
+
+<img width="1496" alt="pizza store (swagger)" src="https://github.com/Willa2023/pizzaStore/assets/142073064/59fe04f3-4ca5-4fef-be1d-73a369a6a68b">
